@@ -1,0 +1,8 @@
+# ne pas commit le reportoire
+build/
+
+# ne pas sauvegarder tous les fichiers *.bak
+*.bak
+
+# ignore le fichier ignore
+#.gitignore
